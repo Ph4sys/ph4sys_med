@@ -1,0 +1,66 @@
+ body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+	margin-right: 6px;
+}
+
+.bc {
+    background-color: white;
+}
+
+box-body {
+    color: blue;
+}
+
+
+.divCaixa {
+   border: 1px solid #d5d5d5;
+   padding:10px 10px 10px 10px; 
+   border-radius: 5px;
+   border-left-width: 100;
+   width:30%;
+   overflow: hidden;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   margin-left:  5px;
+   margin-right: 5px;
+}
+
+.divCaixaLinha {
+  border: 1px solid #d5d5d5;
+  padding:10px 10px 10px 10px; 
+  border-radius: 5px;
+  width:98%;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left:  10px;
+  margin-right: 10px;
+}
+
+.divCaixaLinha_pedido {
+  border: 1px solid #d5d5d5;
+  padding:10px 10px 10px 10px; 
+  border-radius: 5px;
+  width:98%;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.contact_form ul {
+    
+    list-style-type:none;
+    list-style-position:outside;
+    margin:0px;
+    padding:0px;
+}
+
+.contact_form div{
+  padding:5px;
+  position:relative;
+}
